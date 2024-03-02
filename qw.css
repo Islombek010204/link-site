@@ -1,0 +1,12 @@
+a {
+	text-decoration: none;
+	color: blue;
+	margin: 15px;
+}
+
+a:focus {
+	outline-width: 2px;
+	outline-offset: 3px;
+	outline-color: red;
+	outline-style: ridge;
+}
